@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Yemek Tanıma</string>
+    <string name="btnSend">Yükle</string>
+    <string name="btnLoad">Seç</string>
+</resources>
